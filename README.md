@@ -1,4 +1,4 @@
-👋 Hi, I'm Meena, a passionate QA Automation Engineer with expertise in:
+**👋 Hi, I'm Meena, a passionate QA Automation Engineer with expertise in:**
 1️⃣ Selenium with Java 🖥️
 ✅ Introduction to Selenium WebDriver
 ✅ Setting up Selenium with Java & TestNG
